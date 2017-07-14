@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roundedtextview.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\src\\main\\res\\drawable-hdpi\\roundedtextview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clg.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\src\\main\\res\\drawable-hdpi\\clg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roundedbutton.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\src\\main\\res\\drawable-hdpi\\roundedbutton.xml"
+    }
+]

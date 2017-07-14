@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_attendance_list_per_student.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\src\\main\\res\\layout\\view_attendance_list_per_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_faculty_list.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\src\\main\\res\\layout\\view_faculty_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_attendance_list.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\src\\main\\res\\layout\\view_attendance_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_main.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\src\\main\\res\\layout\\listview_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_main.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\src\\main\\res\\layout\\test_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_student_list.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\src\\main\\res\\layout\\view_student_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_attandance.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\src\\main\\res\\layout\\add_attandance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addstudent.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\src\\main\\res\\layout\\addstudent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_layout.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\src\\main\\res\\layout\\test_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addfaculty.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\src\\main\\res\\layout\\addfaculty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewstudent.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\src\\main\\res\\layout\\viewstudent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_student_attendance.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\src\\main\\res\\layout\\add_student_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\build\\intermediates\\res\\merged\\debug\\layout\\__listview_main.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidAttendanceSystem Project\\app\\src\\main\\res\\layout\\__listview_main.xml"
+    }
+]
